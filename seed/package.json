@@ -41,7 +41,7 @@
     "babel-standalone": "^6.26.0",
     "browserify": "^16.2.2",
     "fs-extra": "^6.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-babel": "^7.0.1",
     "gulp-json-minify": "^1.2.2",
     "gulp-rename": "^1.2.3",
